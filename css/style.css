@@ -1,0 +1,17 @@
+
+
+body{
+    width: 600px;
+    
+background:rgb(133, 129, 123);
+font-family: Georgia, 'Times New Roman', Times, serif;
+align-items: center;
+border:black;
+}
+
+.logo{
+    background-image: url("/img/CP-preto.png");
+    width: 150px;/* Faz a largura ficar igual a da largura da imagem de exemplo */
+height: 150px;/* Faz a altura ficar igual a da altura da imagem de exemplo */    }
+
+
