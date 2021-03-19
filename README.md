@@ -1,2 +1,3 @@
 # compadrepadeiro
-# projeto  de APP para estudo de caso
+# projeto  de calculadora de pães 
+#em Javascript
