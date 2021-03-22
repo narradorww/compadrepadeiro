@@ -4,7 +4,8 @@
 
 body{
 width: 500px;
-background:rgb(133, 129, 123);
+height: 500px;
+background:rgb(155, 98, 14);
 font-family: Georgia, 'Times New Roman', Times, serif;
 align-items: center;
 border:black;
@@ -15,6 +16,12 @@ border:black;
     margin-left: 45%;
     margin-right: 45%;
     width: 10px;
+}
+
+.formulario {
+display: center;
+padding: 20px;
+
 }
 
 
